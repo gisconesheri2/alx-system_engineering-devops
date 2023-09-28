@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# display contents of /etc/passwd as a
+# username(0) user id(2) home directory(5)
+
+FILENAME="/etc/passwd" 
+while IFS=":" read -r v1 _ v2 _ _ v3 _; do
+	echo "$v1:$v2:$v3"
+done < "$FILENAME"

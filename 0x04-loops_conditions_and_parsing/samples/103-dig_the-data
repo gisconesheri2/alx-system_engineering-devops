@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#parse apache logs and get ip address and http code
+
+FILENAME="apache-access.log"
+
+awk '{a[$1 $9]++;}
+END {
+n=asort(a, b)
+for (i=1; i<=n; i++)
+	{
+		print b[i] a[b[i]];
+	}
+}' $FILENAME

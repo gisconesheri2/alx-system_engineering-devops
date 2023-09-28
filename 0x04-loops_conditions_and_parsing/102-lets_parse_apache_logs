@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#parse apache logs and get ip address and http code
+
+FILENAME="apache-access.log"
+
+awk '{print $1 ,$9}' $FILENAME

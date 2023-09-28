@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# display in a list the contents of current directory
+
+for name in *; do
+	fileName="${name#*-}"
+	echo "$fileName"
+done

@@ -3,6 +3,6 @@
 
 i=1
 while [ "$i" -gt 0 ]; do
-	echo "To Infinity and beyond"
+	echo "To infinity and beyond"
 	sleep 2
 done

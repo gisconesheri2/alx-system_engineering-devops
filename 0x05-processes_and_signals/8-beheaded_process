@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#kill process of 4-to_infinity_and_beyond
+
+pgrep -la bash | grep infinity | read -r pid | kill $pid

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 #kill process of 4-to_infinity_and_beyond
-
-pgrep -la bash | grep infinity | read -r pid | kill $pid
+PID=$(pgrep -la bash)
+pidinf=$(echo "$PID" | grep  7-highlander | awk '{print $1}')
+for pid in $pidinf; do
+	kill -9 "$pid"
+done

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#display only listening ports as well as pid4-TCP_and_UDP_ports
+netstat -lp

@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 #ping the provided adrress 5 times
 
 if [ "$#" -ne 1 ] 

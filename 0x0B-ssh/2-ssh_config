@@ -1,0 +1,5 @@
+# config file for local user
+Host *
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
+

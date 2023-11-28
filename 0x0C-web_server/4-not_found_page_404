@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Configure Nginx server so that it prints a custom 404 error message
+
+sudo apt-get -y update
+sudo apt-get -y install nginx
+sudo ufw allow 'Nginx HTTP'
+echo "Ceci n'est pas une page" > /var/www/html/error_404.html
+sudo sed -i '/sendfile on;/a error_page 404 /error_404.html;' /etc/nginx/nginx.conf
+sudo service nginx reload

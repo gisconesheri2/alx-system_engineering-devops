@@ -6,5 +6,5 @@ sudo apt-get -y install nginx
 sudo ufw allow 'Nginx HTTP'
 #echo "Ceci n'est pas une page" > /var/www/html/error_404.html
 #sudo sed -i '/include*;/a server {add_header X-Served-By $hostname;i}' /etc/nginx/nginx.conf
-sudo sed -i '/sendfile on;/a add_header X-Served-By $hostname;' /etc/nginx/nginx.conf
+sudo sed -i '/sendfile on;/a add_header X-Served-By $hostname always;' /etc/nginx/nginx.conf
 sudo service nginx reload

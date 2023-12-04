@@ -9,7 +9,7 @@ sudo add-apt-repository -y -u ppa:vbernat/haproxy-2.8
 sudo apt -y install haproxy=2.8.\*
 
 search_string='errorfile 504 \/etc\/haproxy\/errors\/504.http'
-replace_string='\\nfrontend haproxy-main\n\tbind *:80\n\toption forwardfor\n\tdefault_backend nginx_webservers\n\nbackend nginx_webservers\n\tbalance roundrobin\n\tserver 307167-web-0 152.207.9.125:80 check\n\tserver 307167-web-02 100.25.171.151:80 check'
+replace_string='\\nfrontend haproxy-main\n\tbind *:80\n\toption forwardfor\n\tdefault_backend nginx_webservers\n\nbackend nginx_webservers\n\tbalance roundrobin\n\tserver 307167-web-01 152.207.9.125:80 check\n\tserver 307167-web-02 100.25.171.151:80 check'
 
 sudo sed -i "/$search_string/a $replace_string" /etc/haproxy/haproxy.cfg
 echo "ENABLED=1" | sudo tee -a /etc/default/haproxy

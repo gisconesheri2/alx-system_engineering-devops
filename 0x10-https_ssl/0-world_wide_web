@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# query the domain name provided using dig
+
+do_dig () {
+	if [ -z "$2" ]
+	then
+		list=(www lb-01 web-01 web-02)
+		for sub_domain in "${list[@]}";
+		do
+			printf "The subdomain %s is a " "$sub_domain"
+			dig "$sub_domain"."$1" | grep -A1 'ANSWER SECTION:' | awk -F' ' '{ printf $4 }'
+			printf " record and points to "
+			dig "$sub_domain.$1" | grep -A1 'ANSWER SECTION:' | awk -F' ' '{ printf $5 }'
+			echo ""
+			# echo "$sub_domain"."$1";
+			#ip_adress=$(dig "$sub_domain"."$1" | grep -A1 'ANSWER SECTION:');
+			#echo $ip_adress
+			#printf "The subdomain %s is a " "$sub_domain"
+			#echo "$ip_adress" | awk '{print $4 $3}';
+			#echo ""
+		done
+	else
+		printf "The subdomain %s is a " "$2"
+		dig "$2"."$1" | grep -A1 'ANSWER SECTION:' | awk -F' ' '{ printf $4 }'
+		printf " record and points to "
+		dig "$2.$1" | grep -A1 'ANSWER SECTION:' | awk -F' ' '{ printf $5 }'
+		echo ""
+	fi
+}
+
+do_dig "$1" "$2"

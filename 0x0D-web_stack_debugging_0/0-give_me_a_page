@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 #change apache server to serve content on port 8080
-
-sed -i 's/*:80/*:8080 *:80/' /etc/apache2/sites-enabled/000-default.conf
-sed -i '/Listen 80/a Listen 8080' /etc/apache2/ports.conf
-sudo service apache2 restart
+# sed -i 's/*:80/*:8080 *:80/' /etc/apache2/sites-enabled/000-default.conf
+# sed -i '/Listen 80/a Listen 8080' /etc/apache2/ports.conf
+sudo service apache2 start

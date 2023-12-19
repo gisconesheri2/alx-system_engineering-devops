@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# run whoami command
+
+if [ -z "$1" ]
+	then
+		whoami
+	else
+		sudo -u "$1" whoami
+	fi

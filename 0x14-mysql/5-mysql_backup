@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# backup the mysl server
+
+sudo mysqldump --all-databases --user=root --password="$1" --result-file=backup.sql 2>/tmp/mysqldumperr
+datenow=$(date '+%d-%m-%Y')
+tar -czf "$datenow".tar.gz backup.sql

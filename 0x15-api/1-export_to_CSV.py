@@ -21,5 +21,5 @@ if __name__ == "__main__":
     with open(f'{emp_id}.csv', 'w') as csv_file:
         for task in resp_todo.json():
             csv_file.write(
-                    f""""{emp_id}","{name}","{task['completed']}",
-                        "{task['title']}\n""")
+                    f'"{emp_id}","{name}","{task["completed"]}"'
+                    f',"{task["title"]}"\n')

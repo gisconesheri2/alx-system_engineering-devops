@@ -16,14 +16,14 @@ if __name__ == "__main__":
 
     resp_user = requests.get(
             f'https://jsonplaceholder.typicode.com/users/{emp_id}')
-    name = resp_user.json()['name']
+    name = resp_user.json().get('name')
 
     task_dict = {}
     task_list = []
 
     for task in resp_todo.json():
-        task_dict['task'] = task['title']
-        task_dict['completed'] = task['completed']
+        task_dict['task'] = task.get('title')
+        task_dict['completed'] = task.get('completed')
         task_dict['username'] = name
         task_list.append(task_dict)
         task_dict = {}

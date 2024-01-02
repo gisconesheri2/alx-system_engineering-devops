@@ -15,16 +15,16 @@ if __name__ == "__main__":
 
     resp_user = requests.get(
             f'https://jsonplaceholder.typicode.com/users/{sys.argv[1]}')
-    name = resp_user.json()['name']
+    name = resp_user.json().get('name')
 
     completed = 0
     total_tasks = 0
     completed_titles = []
 
     for task in resp_todo.json():
-        if task['completed'] is True:
+        if task.get('completed') is True:
             completed += 1
-            completed_titles.append(task['title'])
+            completed_titles.append(task.get('title'))
         total_tasks += 1
 
 print(f'Employee {name} is done with tasks({completed}/{total_tasks}):')

@@ -16,7 +16,7 @@ if __name__ == "__main__":
 
     resp_user = requests.get(
             f'https://jsonplaceholder.typicode.com/users/{emp_id}')
-    name = resp_user.json().get('name')
+    name = resp_user.json().get('username')
 
     task_dict = {}
     task_list = []

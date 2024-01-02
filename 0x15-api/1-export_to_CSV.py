@@ -15,8 +15,9 @@ if __name__ == "__main__":
             f'https://jsonplaceholder.typicode.com/users/{emp_id}/todos')
 
     resp_user = requests.get(
-            f'https://jsonplaceholder.typicode.com/users/{emp_id}')
-    name = resp_user.json().get('name')
+            f'https://jsonplaceholder.typicode.com/users?id={emp_id}')
+    print(resp_user.json())
+    name = resp_user.json()[0].get('username')
 
     with open(f'{emp_id}.csv', 'w') as csv_file:
         for task in resp_todo.json():

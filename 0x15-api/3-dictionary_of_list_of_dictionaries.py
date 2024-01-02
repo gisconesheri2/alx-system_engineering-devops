@@ -14,7 +14,7 @@ if __name__ == "__main__":
     emp_id = 1
     py_struct = {}
     for user in resp_user_json:
-        name = user['name']
+        name = user['username']
         task_dict = {}
         task_list = []
 

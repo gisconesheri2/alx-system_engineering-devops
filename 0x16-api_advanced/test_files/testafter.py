@@ -27,8 +27,17 @@ def top_ten(subreddit):
                         headers=headers, params=params, allow_redirects=False)
     if resp.status_code == 200:
         d = resp.json()
-        for post in d['data']['children']:
-            num += 1
-            print(post['data']['title'])
+        after = d['data']['after']
+        print(after)
+        params['after'] = after
+        params['count'] = 10
+
+        resp = requests.get(f'https://oauth.reddit.com/r/{subreddit}/hot',
+                        headers=headers, params=params, allow_redirects=False)
+        d = resp.json()
+        after = d['data']['after']
+        print(after)
     else:
         return None
+
+top_ten('flask')

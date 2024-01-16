@@ -1,0 +1,926 @@
+[META] The future of r/programming
+SQLite 3.45 released with JSONB support
+Introducing OpenD, a D language fork that is open to your contributions.
+How Google solved authorization globally across all its products
+Visualizing NYC taxi rides replayed in real-time
+Mel, the original Real Programmer described in the famous "Story of Mel", died in 2018. Here's a brief potted life story.
+Python Packaging, One Year Later: A Look Back at 2023 in Python Packaging
+Pororoca v3 released - HTTP inspection tool, alternative to Postman
+Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature
+MySQL Introduces Javascript Support in Preview
+Observer Teams
+Testing for Network Failures
+How to run yourself into the ground in tech
+Apache Airflow 101...
+Slashing Data Transfer Costs in AWS by 99%
+Mastering the add() Method in Java: An In-Depth Guide - Makemychance
+A platform to share your web components with the world
+How to use org mode in Hugo
+A Short History of Protestware
+A Practical Guide to Use Inter-Parameter Dependencies with the OpenAPI Specifications (OAS)
+A short quiz to find if engineering management is a good fit for you
+PSA: Programming Youtuber Connor Ardman has been hacked
+Beware of Crypto Job Scams Targeting Blockchain Developers
+Browser Extension to help you stay committed to your Leetcode Journey
+Cross Platform 0-Day RCE Vulnerability Discovered in Opera’s Browsers
+Local vector database with arXiv metadata
+Python Django Project in Visual Studio (Getting Started)
+GitHub - themeselection/materio-vuetify-nuxtjs-admin-template-free: Production Ready, Carefully Crafted, Extensive Vuetifty Free Admin Template 🤩
+Crash Course On Using Textual
+[Video] Python's reverse() Vs reversed() - How they differ
+Google FooBar: Google’s secret hiring process
+Some Memories of Niklaus Wirth
+The TTY demystified
+5 Built-In Timers in Python: Differences and Usages
+Engineering With Java: Digest #5
+Supply Chain Attack on PyTorch
+Understand Logistic Regression in Machine Learning in easy words
+Testing (dynamic) network imports (from a gist) in modern JavaScript/TypeScript runtimes
+HTML Web Components
+What projects can i do with java to be job ready?
+Analyzing Reinforcement Learning Generalization
+DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
+Reasons to Avoid Using "var" for Declaring Variables in JavaScript
+Conquering Concurrency: Run Golang Goroutines in Sequence
+On Unix Philosophy
+Contribute to Open Source: complete process step by step
+Git was built in 5 days
+Kind of annoyed at React
+Top 5 BEST Places to Live
+When Random Numbers Are Too Random: Low Discrepancy Sequences
+BudgetBank bug fix in Next js
+How we are designing a multi-CI terraform orchestration tool in Golang
+Python Web Scraping Challenge: Downloading Images
+Bypass CAPTCHA and Anti-Scraping Techniques
+How one line of code caused a $60 million loss
+How an event-based approach makes GraphQL Subscriptions better in Federation
+caojen/google-oauth: a server side Google Oauth2 verification library in Rust
+Netflix Creates Incremental Processing Solution Using Maestro and Apache Iceberg
+Happy New Year: solving the Rubik's Cube in SQL
+Towards Modern Development of Cloud Applications
+Web Scraping Challenge. Python challenge 10 Join us in today's Python coding challenge! Learn how to scrape headlines from a website using Python, BeautifulSoup, and the requests library.
+Understanding Domain-Driven Design (Part 1)
+StackOverflow Questions Down 66% in 2023 Compared to 2020
+Lightweight Javascript Framework Review (For Django Developers)
+Code Reviews
+Swift WinRT &amp; WinUI 3 Windows News App Short Demo
+All you need to start web scraping with Javascript
+Can anyone tell me how to edit .bgz file?
+DORA Metrics: the Right Answer to measuring engineering team performance
+ASP.NET Core Web API Client/Server App with Visual Studio
+A Google's proposal for an alternative to microservices. "Towards Modern Development of Cloud Applications"
+ChatGPT Isnt Stealing Programmer Jobs
+String Interning in Python: A Hidden Gem That Makes Your Code Faster
+A Programmer’s Journey: Crafting a Python API Client for the On-line Game Using ChatGPT
+How To Automatically Update Your Title to your Veiw Count
+A game to improve your algorithmic skills
+Acoustic radiation impedance
+The real costs of Datadog Synthetics monitoring
+RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform. The project is looking for Mac OS developers ( Over 1.6K Stars )
+[Tutorial] Nuxt authorization: How to implement fine-grained access control
+MikroORM 6 is Polished
+Weekly Challenge #1 - Write a Chess game with twist involving stockfish to win $150
+The splat operator, or *args and **kwargs in Python
+Vanna.ai: Chat with your SQL database
+The 1 Thing I Wished I Knew When I Started As a Junior Dev
+You can Skimp on Level Design
+Four Kinds of Optimisation
+I'm A Developer Not A Compiler
+Explaining Non-Euclidean Geometry By Making a Game (Not The Actual Title)
+Different Ways to Add Parentheses In-Depth Analysis! 🧮💡 - LeetCode
+The Two Reacts
+System Design Fundamentals: What is a Load Balancer ?
+Decompilation of Paper Mario for N64
+When database challenges strike, how Slack overcame a major incident
+I made a TUI phonebook manager using ncurses
+Paper Notes: Facebook’s Tectonic Filesystem – Efficiency from Exascale
+Coding Challenge - Bitcoin ETF Profit Maximizer
+Brave Search now answers coding queries
+Typescript: Field masks - construct type based on input parameter
+Final paper related to language translation software
+What source control strategy is right for my team?
+{}
+CPU Fairness at its Core: Round Robin Scheduling Unveiled
+7 Python Memory Optimization Tricks To Enhance Your Code’s Efficiency
+First decide how to decide: “one weird trick” for easier decisions
+Introducing Static Sharding to an SQLite Backend
+'Zero-Click' Bluetooth Attacks Pose Serious Threat Across Major Operating Systems - Cyber Kendra
+Collection of articles about the future of APIs in 2024
+5 Mistakes I Made Early In My Software Development Career—And What I Would Have Done Differently
+Inference of Mamba models in pure C
+Intro to Devops Articles (Docker, Compose, k8s)
+Git Notes: git's coolest, most unloved­ feature
+What is a Command Bus?
+DynamoDB Queryer - Effortlessly Query Your DynamoDB with SQL
+BuildAnything: Generate any HTML page/app and see it stream to completion in real-time
+So you wanna be a Developer?
+New version of ConanEx v2.0 - Conan Extended C/C++ Package Manager that fully decentralized that supports Conan v2.x
+Between Art and Algorithms
+You might not need gradual typing in Elixir
+Extracting and Depositing Bits
+Random distributions are not one-size-fits-all (part 1)
+Wayland really breaks things… Just for now?
+A small program to proxy and record all traffic to a server.
+Java String Interpolation final in Java 23
+Netty Source Code Analysis — NioEventLoop Event Processing
+NodeJS: use biome as formatter
+100+ resources to become a great engineering leader
+Critical Account Takeover Vulnerability Patched in GitLab Release - Cyber Kendra
+C3 (a new low level programming language) Release 0.5.3
+Does code quality affect pull request acceptance? The surprising answer is "no".
+Why, how much, and when you should be taking time off as an engineer
+How to Bulk Load Data With Copy Command (Using JDBC and Postgres)
+Made a Golang CLI tool named destiny
+ByteArena - Solve coding challenges with personalized AI tutoring
+Announcing Updates to learn.adacore.com
+'Viz' - an ergonomic and low footprint web framework for Rust
+Branding for Programmers
+what is software testing In simple Languages
+Web component gotcha: constructor vs connectedCallback
+GitQL 0.12.0 now has supports for function argument implicit casting and varargs parameter
+How To Use Backwards Promises
+Git = Donny Darko as a Service
+Mastering Closures in Swift A Comprehensive Guide
+Nuemark: Markdown dialect for rich, interactive content
+Big Tech Digest #10: Rebuilding Netflix video processing pipeline with microservices, Making Expedia flights search faster, Measuring Booking.com mobile app performance and more!
+Ship Shape
+What is WSGI? A Readable Explanation for Python Developers
+Stop using Code Coverage as a Quality metric
+LearnThisRepo: Explore 300+ open source repos for free by talking to them using AI
+DSA Masterclass C/C++/C#/Java/Python &amp; Python Programming course
+The case of the vector with an impossibly large size
+How You Can Hide Files Inside Images: The Art Of Steganography
+Future of NLP [video]
+The next AI winter? with AI author Peter Norvig
+Firebird 5.0 Is Released
+raddebugger: A native, user-mode, multi-process, graphical debugger
+7 Uses of Python Functools That Make Your Code More Professional
+2D Minecraft Mobile(So far) - Javascript
+Rebuilding Netflix Video Processing Pipeline with Microservices
+Synthesizing Speech for a Playdate game (long)
+Understand What is Spring MVC Tutorial
+Vector Databases: A Technical Primer [pdf]
+An old Unix mistake you could make when signaling init (PID 1)
+On the importance of RFCs in Programming
+My snake game is now 61 bytes
+Best engineers are focusing on helping others
+A git repo for decentralized key management, very interesting. Hedera and Algorand team up to create the DeRec Alliance, wow this is huge! This is a pretty big deal for security on the decentralized web. I generated this article while researching it, you may find it interesting. Note: Contains some
+CLI user experience case study
+How SQLite Is Tested
+How to Understand and Use nil in Golang Correctly?
+Interpreters Part II : A Simple Interpreter
+string in c
+Introduction to GPU Programming in Chapel
+Linear Regression
+Class invariants
+Introduction to Apache Hudi
+Programming Language for Ternary Computing
+Atomics and Concurrency
+Marimo – an open-source reactive notebook for Python
+epoll: The API that powers the modern internet
+English as a Programming Language?
+🎨 Neural Style Transfer Tutorial with Tensorflow and Python
+Ray Tracing in Fragment Shader(GLSL) using React Three Fiber
+Designing a multi-ci terraform orchestration tool in golang
+Using pre-commit hooks makes software development life easier
+How to Use Decision Tables for Requirements Analysis in Software Development
+Do you love.. debugging?
+API Security Breaches: Learning from Past Incidents
+How Authentication works in Remix.run (and the web)
+RPC &amp; HTTP frameworks for High-Performance Golang Microservices
+High C Compiler – A C language extension ahead of its time
+Introduction to Machine Learning in C#. Classification using ML.NET
+Question - Is there a reason a memory safe C-Lang compiler can't just be built? Isn't the magic of Rust memory safety all in its compilation process?
+67 Weird Debugging Tricks Your Browser Doesn't Want You to Know
+Python Testing Basics: Comparing Pytest and Unittest, Understanding Fixtures, Mocking, Coverage…
+Ayyy, made a video on Scalability Principles
+Mathematica 14 released
+Implementing the missing sign instruction in AVX-512
+What Are File Descriptors in Linux
+How I Read Books (Software Engineering / Leadership) with Limited Time
+DevDocs
+Interview with Odin's creator, Bill Hall (Ginger Bill)
+{}
+Dumping the GBA BIOS via executing unmapped memory
+lastminute.com Improves Search Scalability Using Microservices with RabbitMQ and Redis
+Postgres Incremental Backup
+A Love Letter to Tinkerable Software
+Research paper is also an executable x86 program [pdf]
+API integrity
+X-Wing: A post-quantum encryption scheme that wont fail if the Kyber is broken
+Contribute to an LLM gateway written in TypeScript
+I Built My Own Manga Manager/Downloader - Teemii
+Biggest productivity killers in the engineering industry
+GitHub Actions as a time-sharing supercomputer
+Maze generator in Python and Pygame. Source code is in the description.
+30 Years of Decompilation and the Unsolved Structuring Problem
+Scaling Golang to 192 Cores with Heavy I/O
+François Chollet (Deep Learning at Google) wrote on Twitter/X: “At big tech companies, the norm is extremely over-engineered code. At startups, the norm is shoddy code. Both are pretty bad.” What do you think about it?
+High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM [pdf]
+Open-source project to route 100+ LLMs on a single endpoint
+If any of you are fellow DND nerds who find normal blogs about tech arduous...
+Colour Checker Detection with Machine Learning
+Building and deploying AI agents
+GodotOS: A Fake Operating System Interface Made in the Godot Engine
+Maglev Hash: Consistent Hash with Guaranteed Even Distribution.
+Vcc - the Vulkan Clang Compiler
+GitHub Wrap for Organization
+Spring Data JPA: Refreshing an Entity
+Ayyy, made a video on load balancers
+Reactive Programming in Swift
+Building a baseline JIT for Lua automatically
+5 Handy Python 3.12 New Features That Improve Your Coding Experience
+Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?
+The Design Principles of the Elixir Type System
+Ranking of Fruits: Sorting in JS, K, and Lil
+A Technical Dive into PostgreSQL's replication mechanisms
+HTML First
+10 years with DragonFlyBSD network stack [pdf]
+Distributed Systems Horror Stories: Kubernetes Deep Health Checks
+Why stdout is faster than stderr?
+Rust Temporary Lifetimes and "Super Let"
+Shoelace: A library of web components
+Fully configurable scraper in go for all platforms
+Rerun 0.12 - Easily visualize streams of multi-modal data
+What is prim's Algorithms
+OpenTofu is Now Stable
+Every Programming Language Ever Explained in 15 Minutes
+Reinforcement Learning Survey
+Learning about debuggers
+¡C# es el lenguaje de programación del año 2023!
+Regex Pronouns?
+Delayed Open Source Publication: A Survey of Historical and Current Practices
+DynamoDB Foreign Data Wrapper for PostgreSQL
+Safe Zero-Cost Coercions for Haskell
+Exploring the Gleam FFI
+Hacking Factorio - From save game to remote code execution
+Creating Domain Specific Error Helpers in Go With errors.As
+Interview with creator of Odin language, Bill Hall [video]
+The memory remains: Permanent memory with systemd and a Rust allocator
+Conditional Git Configuration
+Dbeel – A distributed thread-per-core db
+Why does one NGINX worker take all the load?
+Pure gold
+Attack of the week: Airdrop tracing
+Atm0s Media Server - An Open-source Media Streaming Decentralised SFU powered by Rust
+Why Most Engineers Aren't 10x Engineers
+Bypassing AWS complexity
+Out of Memory Shenanigans
+Shoelace: A forward-thinking library of web components.
+Lessons I learned in the last 10 years
+10 Facts About Coding Interviews Every Self-Taught Developer Without A CS Degree Should Be Aware Of ✨
+AI Autocomplete in Terminal with Codeium (Termium)
+Emoji Reactions For GitHub: have expressive and engaging reviews with the code review emoji guide
+10 Cool SQL Optimisations That do not Depend on the Cost Model
+Understanding and Managing Indexes in MongoDB using Mongoose &amp; Node.js
+Understanding Load Balancer: Types &amp; Building with Flask &amp; NGINX
+The 1xers Guide to LLM, ChatGpt &amp; AI
+Practical (a.k.a. Actually Useful) Architecture • Stefan Tilkov
+The Importance of Not Over-Optimizing
+Never wait for code review again: how stacking your pull requests unblocks your entire team
+Compiling a standalone executable using modern JavaScript/TypeScript runtimes
+Do we need a proper package manager for development environments
+Tidy First?
+Effortless AI: No-Code Automation Using n8n Cloud and OpenAI Vision API
+Post Processing (Unity)
+Vcc – The Vulkan Clang Compiler
+Are nitpicks really worth it?
+The memory remains: Permanent memory with systemd and a Rust allocator · Graham King
+Habits of Insanely Productive Software Engineers
+A look inside `memcmp` on Intel AVX2 hardware
+🚀 Crafting Kinetic CSS Loader: A Web Dev's Playbook! ⚙️✨
+Why all([]) is true, prod([]) is 1, etc
+Is htmx Just Another JavaScript Framework?
+Release Notes for Safari Technology Preview 186
+Lang2Logic: Converting natural language prompts to python objects. Describe the desired format and prompt and it will automatically be generated. Usefull for simplifying and automating lang-chain implementation. Please comment, or DM me feedback.
+LRU — The Algorithm That Never Forgets the Essentials
+Sneat - Open Source &amp; Free Bootstrap Django Admin Template
+I wrote about Queues, care to read?
+Is Work Life Balance a Myth for Software Engineers?
+Increasing confidence in your software with formal verification
+What is Clean Code? with "Uncle Bob" Robert C. Martin
+Honeytokens: Catch Malicious User Logins
+a little cd burner (wrapper) i wrote
+{}
+Error handling in Go web apps shouldn't be so awkward
+Netty Source Code Analysis-Accept Process Analysis
+[Video] Why Flask(__name__) is Used When Creating a Flask App?
+In defense of simple architectures
+make-real - Draw a mockup and make a real software using AI
+10 Python Interview Questions for Senior Developers
+A preliminary exploration/introduction of a simple (visual) language: Rays
+9999999999999999.0 – 9999999999999998.0
+Product Management is broken, a change is coming
+The most unhinged security auditor ever
+npm in Review: A 2023 Retrospective on Growth, Security, and Quirky Facts
+The Biggest Smallest PNG
+When Random Isn't
+Annotating args and kwargs in Python
+Polars: DataFrames in Rust
+The Illustrated TLS 1.2 Connection: Every byte explained and reproduced
+Understanding the Concept Of java design patterns
+The Pareto Principle of Developer Experience
+Intorducing Microeye. A Proof of Concept Micro Monitoring Docker Image: Real-Time Metrics, Graphs &amp; Dashboards Made Easy
+From Paratrooper to Prodigy: Student Types I've Met in 5 Years of Teaching Programming
+How organisations cripple engineering teams with good intentions
+Testing Event Based APIs
+Database-like ops benchmark
+EU CRA: What does it mean for open source?
+Writing a minimal in-memory storage engine for MySQL/MariaDB
+Is Objective-C BOOL a boolean type? It depends
+Restartable Sequence Mechanism for TCMalloc
+New in VersionFox: ScopeMode Feature - Define Your SDK Scope Effectively
+Advance Your AI Image Generation with txt2imghd(Github)
+Python’s __name__ == “main”: Tips and Examples for Effective Use
+Ensuring Data Privacy with Memphis Functions
+Software Architecture Principles From 5 Leading Experts
+Reverse engineering the end-of-level photos in Sackboy: A Big Adventure
+Transposing a Matrix using RISC-V Vector
+React (/ SwiftUI / Flutter) and the IO monad in Haskell - The common theme between them
+Cognitive Load For Developers
+Discover MoonBit: The fast, compact &amp; user friendly language for WebAssembly
+Extism, the WebAssembly framework, hits 1.0
+Python 3.13 Gets a JIT
+Announcing MotionMark 1.3
+Plugin system for loading arbitrary files in Rerun
+How To Find The Maximal Subarray Having Distinct Elements
+[Podcast] Data-Oriented Programming with Yehonathan Sharvit &amp; James Lewis
+DeepFlow – open-source eBPF Distributed Tracing
+Comparing lambdas in various languages
+Mariposa - A programming language with time-travel
+How (and why) to implement streaming in LLM applications
+Using ChatGPT to auto-reply to WhatsApp message
+MERN stack tutorial
+From Old to Bold: A Strategic Guide to Legacy System Integration
+__init__ Files in Python: A Guide to Organizing Your Code into Logical and Reusable Components
+Prompt Engineering with Excel
+How do Video Game Graphics Work?
+Crystal lang has a new minor release that's anything but minor! 28 contributors in this last release 👏
+Migrating exisitng page to hugo
+The Year Software Went Bad
+The Two Reacts
+Advancing Interaction to Next Paint | web.dev (May 2023)
+Call for Speakers for the 2024 Carolina Code Conference is open until April 15th
+4 Strategies for Context Switching in Git
+The Art of Writing Loops in Python
+Introducing the OCaml Local Mode
+NumPy 2 is coming: preventing breakage, updating your code
+JetBrains silent on security concerns facing AI Assistant
+Real reactivity has never been tried (FRP vs observables)
+The Horizon IT system - how buggy software written in an ancient programming language caused disaster
+Tail-Recursive &amp; Body-Recursive Function Performance Across Elixir &amp; BEAM versions - what's the impact of the JIT?
+A better deletion approach than soft delete
+GitHub - eeroel/hae: Like grep but with natural language queries
+Turing Complete
+Embedding the Sophia runtime into Go applications
+SQLite 3.45: Interactive release notes
+path.join Considered Harmful, or openat() All The Things
+Falsehoods programmers believe about names
+Rewriting the Technical Interview
+What does it mean for an application to be "version-controlled"? Why would you do it?
+Citus for Postgres on Any Cloud with Crunchy Bridge
+Unveiling Time-Wasting in Software Development
+Expr is a Go-centric expression language designed to deliver dynamic configurations with unparalleled accuracy, safety, and speed
+Nebula is an open-source and free-to-use modern C game engine
+Transaction Isolation in Postgres, explained
+Elixir is now a gradually typed language
+A Passwordless Future! Passkeys for Java Developers
+Why all([]) is true, prod([]) is 1, etc
+Memory management in a Streaming SQL Engine
+Greenmask obfuscation tool v0.1.0 Release
+Writing concurrency safe database operations in spring boot
+Scheme SRFI 249: Restarting conditions
+Go's CompareAndSwap is not always Compare-and-swap
+Fast and Stable Polynomial Root Finders - Part Six
+unix shell - test, [, and [[ - Julio Merino (jmmv.dev)
+The Definitive Guide to OAuth Tokens
+8 Levels of Using awk in Linux
+Java Interview Practice Problem (Beginner): Domain Name Exists?
+Strategy Matters: Embracing Versatile Development in Software Projects
+Caesar13 - A simple image steganography tool written in Python
+The Identity Problem
+Are pointers just integers? Some interesting experiment about aliasing, provenance, and how the compiler uses UB to make optimizations. Pointers are still very interesting! (Turn on optmizations! -O2)
+Building a Desktop Todo App using Tauri and React
+Why you can’t interchange programmers
+{}
+AI Innovation Starts Here: Kandinsky 2.2 on GitHub and Replicate
+SAT can be solved "quickly" via Interaction Net superpositions
+An Overview of Distributed PostgreSQL Architectures
+Learning about debuggers
+The World and the Machine
+Effective Unit Testing in Golang and Gin based projects
+Fully Automated Releases for Rust Projects
+Ignoring warnings? Learn about the theory of broken windows and you'll probably stop
+Gato GraphQL released in the WP plugin directory
+Using Redis as a Message Broker for Celery: Deep Dive
+[Podcast] Unlocking the Web: Exploring WebAuthn &amp; Beyond • Eli Holderness &amp; Mark Rendle
+Writing Robust Code via Idempotence
+A PostgreSQL wishlist
+How to strategically approach technical improvements
+GitHub Copilot Is Making Elite Developers EVEN BETTER
+How Meta Built the Infrastructure for Threads
+AI Toolkit — Give a brain to your NPCs, a header-only C++ library
+Refactoring vs Refuctoring: Advancing the state of AI automated code improvements
+Soft Deletion Probably Isn't Worth It
+8 Levels of Using Type Hints in Python
+OAuth vs. JWT: What's the Difference for Application Development
+My friend has develop useful terminal for GitHub Actions
+Optimizing the unoptimizable: a journey to faster C++ compile times
+XState - Event-driven programming using state machines and the actor model
+A new RISC-V emulator for Computer Science education
+C Compiler Assembler and Runtime for C64
+A library for deep learning and reinforcement learning
+Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app
+Software Technical Writing: A Guidebook [pdf]
+Awesome system design resources
+Restartable Sequence Mechanism for TCMalloc
+bigFORTH (1997)
+DNS Toys
+LRU — The Algorithm That Never Forgets the Essentials
+The most useful programming language
+An Overview of Distributed PostgreSQL Architectures
+Analyzing Reinforcement Learning Generalization
+OAuth 2.0 Security Enhancements
+AI for Web Devs: Addressing Bugs, Security, &amp; Reliability
+Source code for a 1977 version of Zork written in the MDL programming language
+Web CGI programs aren't particularly slow these days
+Visualizing Ext4
+How to stop Linux threads cleanly
+How OpenBSD's malloc helps the developer [video]
+Fun With Embeddings in Go
+missing the point of webassembly
+Why is Jepsen Written in Clojure?
+What PWA Can Do Today
+Autocomplete for "real" text in vscode
+What kind of tests are sufficient?
+Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT
+Pure C WebRTC
+MotorOS: a Rust-first operating system for x64 VMs
+Open Source Android App - Translate Screen and Comics
+(opensource primer) Practical AI Application Development for Javascript Developers
+Understanding AI Risk Management — Securing Cloud Services with OWASP
+How techies missed what’s wrong with Horizon, how that lead to multiple deaths and what can we learn from it all?
+9 Months With GPT-4: Can I Fire My Developers Yet?
+Minimalist PostgreSQL Migrations
+Programming as Theory Building (1985)
+Live Objects All the Way Down: Removing the Barriers Between Apps and VMs
+Tabula games are now supported at bgammon.org (free backgammon service without ads)
+k on pdp11
+I Just Need a Programmer
+What the heck is a homomorphic mapped type?
+ASCII protocol buffers as config files
+What This Senior Developer Learned From His First Big Rust Project
+Building BPF applications with libbpf-bootstrap
+NATO Software Engineering Conferences
+scheme modules vs whole-program compilation: fight
+In-browser code playgrounds
+Real-World Choreographic Programming: Full-Duplex Asynchrony and Interoperability
+GNO is the UNIX-like environment for the Apple IIgs
+Pocketbase: Open-source back end in one file
+The Erlang Ecosystem [video]
+Exploring x86-64 Instruction Encoding
+Shecc: A self-hosting and educational C optimizing compiler
+I've created a Java library that helps testing multi-threaded code.
+Strengthening Your Application’s Security : Gatekeeper Pattern
+RIP: Software design pioneer Niklaus Wirth
+Unleashing the Power of Web SDK for Developers: A Comprehensive Guide
+The origins of J
+Learnable Programming
+Why use strace in 2023? [video]
+Using Zig to Commit Toolchains to VCS
+[OSDev] My Own Small Custom Operating System Written In C &amp; ASM...
+Reactjs nodejs mysql App tutorial
+10 Top Reasons To Choose Python for Web Development in 2024
+It's 2024. Why Does PostgreSQL Still Dominate?
+The Ten Commandments of Refactoring
+My Problem with Using TypeScript in 2023
+A New Programming Language for AI Developers
+Mastering System Design: Databases (Part 4)
+The Future of Shader Programming: Rust-GPU
+View transitions with 1 line of code in Remix!
+Advanced Magic Methods in Python To Customize Classes Conveniently
+[IntelliJ Plugin] SwissKit Converter - Convert mAnything
+Why should not use EventEmitter for Asynchronous Operations in NodeJS
+You must know about pure functions
+How to Build HttpClient In Java to Download File
+{}
+I created a DI package that allows you to write NestJS/Angular-like code in any Typescript project
+A Beginner's Companion to Theorem Proving in Lean 4
+Using date-based CSS to make old web pages *look* old
+HTML 101
+In-browser code playgrounds
+A case for ClojureScript 2.0
+When should you upgrade to Python 3.12?
+Six Reasons Not To Use React
+HTMX: The Game-Changing Alternative to React
+How GitHub Actions 10x my productivity
+The power of questioning your first instinct in the engineering industry
+Resource for leetcode interview questions solutions and walkthroughs
+LeetCode 20 - Valid Parentheses
+The 20-Minute Rule For Programmers to Stay Up to Date
+Coding Challenge - Count Odd-Even Events
+Leave Your Ego Out Of Programming, A Math Student's Story
+How to make automatic screenshots – Usable for OpenAI Vision API
+Writing Javascript without a build system
+Dennis Ritchie on &amp; | vs. ==
+Iterating over bit sets really quickly
+A Deep Dive Into Python's functools.wraps Decorator
+Article: Understanding Concurrency in Go and building a Concurrent File Downloader
+Do we think of git commits as diffs, snapshots, and/or histories?
+I made a desktop application that helps automate your job search
+How to get 💩 done as a software engineer
+RFC 1149: Standard for the transmission of IP datagrams on avian carriers
+GPT in 500 lines of SQL
+The AI Operator’s Handbook
+A Tour of Go Cryptography Part 1: Hashing
+Hopping over and tunneling under gates to get keys
+Speed up your code: don't pass structs bigger than 16 bytes on AMD64
+Node.js CLI Apps Best Practices
+RAGTheDocs
+LeetCode 79 - Word Search
+Java Interview Practice Problem (Beginner): Input IDs in Batches
+Rob Pike at GopherConAU2023 - "What We Got Right, What We Got Wrong"
+Writing Is an Important Skill for Programmers
+Guide for migrating github repos to a monorepo
+I've built a list of the most watched talks across tech conferences last year
+NestJS: Server framework on steroids 🎉
+SIMD in Pure Python
+Optimizing CI/CD with GitHub Actions Reusable Workflows
+Linux 6.8 to Drop Slab While Delivering a SLUB Optimization: 34% Improvement
+An app can be a home-cooked meal
+The Ultimate Guide for Making the Best Career Choices in Tech
+When "Everything" Becomes Too Much: The npm Package Chaos of 2024
+Looking for people to do some projects together so we gain experience.
+Statically enforcing frozen data classes in Python
+NPM registry prank leaves developers unable to unpublish packages
+Escape from Zurg: An Exercise in Logic Programming
+Comparing Performance of Julia on CPUs vs. GPUs and Julia-MPI vs. Fortran-MPI
+LeetCode 121 - Best Time to Buy and Sell Stock
+Human devs are here to stay: The practical and philosophical problems with AI code review
+Driverless User Space File Systems for Windows, macOS, and Linux
+No one actually wants simplicity
+Build tables with pagination and updates using just HTML
+Introducing ShellOracle: Auto-generate shell commands from a description and seamlessly inject them into your prompt!
+Programming lessons learned from making my first game and why I'm writing my own
+The Art of Unix Programming
+How Hackers are Using Package Managers as Vectors for Deploying Coinminer
+Quickwit 0.7: A compatible OSS alternative to Elasticsearch.
+Making .NET services more reliable with Fusion Cache
+Pdf summarizer app
+The Architecture of Open Source Applications
+A lightweight project manager designed for non-IDE users (linux exclusive)
+OLAP vs Time-Series Databases: The SQL Perspective
+Out Of Memory Shenanigans
+Learning Regular Languages with L* Algorithm
+Oracle introduces JavaScript support in MySQL
+Rust, Ruby, and the Art of Implicit Returns
+How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web
+Ten years isn't long enough for maximum age settings
+GitHub - aartaka/stdlambda: Standard library for Lambda Calculus, finally making LC a practical programming language.
+Iggy.rs - building message streaming in Rust
+Go: Constraining Complexity in the Generics Design
+Sneak Peek on Rails 8
+Modern Java/JVM Build Practices
+Main-Thread-Scheduling
+Portable Efficient Assembly Code-Generator in Higher-Level Python (PeachPy)
+Indexing semantic versions in RocksDB
+Primary Key Checker Job In Spring Boot
+Databases in 2023: A Year in Review
+Building 7 Startups in 7 Weeks
+Late 70s and 80s: forget BASIC, we had Pascal and C
+Why is Unix's lseek() not just called seek()?
+The Two Reacts
+MineSweeper Game in Python and Tkinter. Source code is in the description.
+RIP: Software design pioneer and Pascal creator Niklaus Wirth (by me on the Register)
+Scrum is the Byproduct of a Decade of Easy Money
+HolyC Docs - Revived Documentation of HolyC now on GitHub
+TomatoTester an Procedural Chanding Tag Color for debug
+Niklaus Wirth, laureate of the Turing Award and creator of the Pascal programming language, has passed away
+What is Remix exactly?
+Computer science pioneer Niklaus Wirth passes away
+Rob Pike on the async/await pattern
+Tackle Great Engineering Problems using Writing 🚀
+5 Future Trends in API Development: A Glimpse into 2024
+Gato GraphQL v1.4 is out
+I made a GIF quine
+P² quantile estimator: estimating the median without storing values
+{}
+Not all issues are complex, some are complicated. Here's how to deal with them
+Project Oberon the Design of an Operating System, a Compiler, and a Computer [pdf]
+11 Python Tricks To Show Off Your Advanced Skills
+Spring Boot + GraphQL + MongoDB Integration
+How can developers become more business-oriented? (And should they?)
+How the PostgreSQL optimizer works to speed up queries
+The Effects of Not Maintaining Consistency with DynamoDB
+Explore the Pinterest of Code
+Solutions over best practices
+Rust, Ruby, and the Art of Implicit Returns
+The Curious Case of MD5
+A Science of Concurrent Programs [pdf]
+RFC 9497: Oblivious Pseudorandom Functions (OPRFs) Using Prime-Order Groups
+How to deploy a FastAPI API or APP on Render for free
+What good Continuous Integration (CI) looks like
+Great developer experience is what you get when developers can easily achieve and maintain flow state at work
+Debugging is Programming
+Sparkey is a simple constant key/value storage library
+Alternative to libhunt
+Optimizing docker container builds - an illustrative walkthrough
+Empower your transactionals emails with Tailwind
+FXYT pattern drawing language with 36 commands
+30 Years of Decompilation and the Unsolved Structuring Problem: Part 1
+Win323mu / DIY WOW
+Software Technical Writing: A Guidebook [pdf]
+Does Your Test Suite Account for Weak Transaction Isolation?
+Origins of J
+Be jack of all trades—Or, it's okay to start as a framework-er
+My Toddler Loves Planes, So I Built Her A Radar
+Fellow devs playing the guitar, I made this small Deno CLI to practice neck memory
+Integrating OpenAI Image Generation into a .NET Application
+Profilerpedia: Software Profiling Tool Catalog
+What I'd like to see for Async Rust in 2024
+Annoying details of a Z-buffer rasterizer
+language design of Starlark (compared to Python)
+Amber: Smalltalk for the Web
+Iggy.rs – building message streaming in Rust
+Asynchronous nginx response header/body filter
+NASA's 10 Coding Rules [for Writing Safety Critical Program]
+A Guide to Open Graph Meta Tags
+Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identifier Names (2017)
+Spring Data JPA: How to Bulk Update Records
+How to Control JavaScript's Strict Mode
+Atomics And Concurrency In C++
+A Coder Considers the Waning Days of the Craft
+How Open ID Connect works (illustrated)
+1995 Programming on the Sega Saturn
+Mastering System Design: Building Scalable and Robust Architectures(Part 3)
+KCL Programming Language Biweekly Newsletter | Crossplane KCL Integration
+9 years of Apple text editor solo dev
+SQLALchemy vs Django ORM
+Streamlining Data Solutions Delivery with Centralized Framework
+The I in LLM stands for intelligence
+Future of team collaboration | Clariti's Vision
+.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+This year in LLVM
+A new approach to local multiplayer / splitscreen perspective with raytracing
+End of Year Pay Report 2023
+How Uber Finds Nearby Drivers at 1 Million Requests per Second
+Semantic Versioning is a terrible mistake
+Double encryption: Analyzing the NSA/GCHQ arguments against hybrids
+Cassette (a small, Lisp-like programming language)
+Building a self-contained game in C# under 2 kilobytes
+Python support for the Linux perf profiler
+Master Forward Kinematics: Spider Robot Series
+pkg-tools: An opinionated toolchain with a single typed configuration file.
+PostgreSQL is the DBMS of the Year 2023
+Benchmarking 20 programming languages on N-queens and matrix multiplication
+How to be mentally tough
+🎉 Unveiling Flexbox Reordering: Optimising Web Development and CSS Learning! 🖌️
+Everything you might have missed in Java in 2023
+Software Technical Writing: A Handbook [pdf]
+A lightweight Lisp interpreter in Malbolge Unshackled
+How to Create Intuitive Application Permissions Without Explicitly Defining Them Using ReBAC
+Orbit Bridge Hackers Drain $81 Million in Crypto Assets
+A CAP tradeoff in the wild
+The One Billion Row Challenge
+Vim 9.1 released
+SIEVE is simpler than LRU
+9 Weird Python Features and How To Explain Them
+Fastest Way to Read Excel in Python
+Why does integer representation of a floating point approximate its logarithm?
+Managing superstars can drive you crazy
+Build Your First Flutter App with ChatGPT - A Comprehensive Beginner’s Guide
+The Big Cloud Exit FAQ
+Optimizing End-to-end (e2e) Test Performance
+Shannon-Fano coding
+Top Remote Designer Jobs 2024 - Jobs.frontendin
+DAPLs: Domain Agnostic Programming Languages
+Consider Security First
+Userland Exec (2004)
+Cross-platform Rust rewrite of the GNU coreutils
+Making Small Games, Which Is Fun in Itself
+Stacked Diffs (and why you should know about them)
+Create a 3D MOON KNIGHT Landing Page using React, Three.js &amp; Framer Motion [Source Code]
+How to deliver the first MVP of your startup the right way
++1500 HuggingFace API Tokens were exposed, leaving millions of Meta-Llama, Bloom, and Pythia users vulnerable
+Databricks Unity Catalog: A Comprehensive Guide
+How to Sort a HashMap In Java 8
+SIEVE is simpler than LRU - SIEVE: an Efficient Turn-Key Eviction Algorithm for Web Caches
+{}
+Syntax Podcast: "Is Running Random Code From npm Safe?"
+GitHub - michaeljnash/jekyll-js-parts: A simple Jekyll plugin that allow js partials to be included anywhere, and bundled according to pages said scripts are used in, utilising es modules.
+Start every terminal session with a vivid reminder of life's value
+Thoughts on PostgreSQL in 2024
+PyPy has moved to Git, GitHub
+Micro-Optimization for Fun and Profit [video]
+What I've Learned About Flow Fields So Far.
+What is JSON?
+PlaywrightGPT - Generate E2E Tests
+I built a different kind of DBMS think MongoDB x MySQL x Redis. CursusDB is an open-source secure distributed in-memory yet persisted document oriented database with real-time capabilities and it's own SQL like query language!
+How I Doubled My Development Speed by using AI Tools
+RawJS is a better way to call document.createElement()
+Custom hashmap in golang
+Dealing with weird ELF libraries
+Web CGI programs aren't particularly slow these days
+How to Build a Web Scraper Using Python
+Rolling aggregates with SQL window functions
+Fake Trees: Using Indents For Simpler UIs
+What is the index of an empty string in an empty string?
+How to Create a Multilingual Website with Python and FastAPI
+Mastering Kubernetes Health Probes: Ensuring Robust and Reliable Services
+Waiting on Tests
+Where on the doll did software eng. evangelism hurt you?
+txtai 6.3 released: Adds new LLM inference methods, API Authorization and RAG improvements
+Hello, world! - A technical overview of the software powering bgammon.org
+Realtime Annotations and Visualizations in Live Coding Performance
+10+ Free HTML and CSS Books in PDF Format
+Common Mistakes in Coding Interviews and How to Avoid Them
+3 signs TDD is not helping you and what to do about it
+10 Remarkable Python OOP Tips That Will Optimize Your Code Significantly
+Stand-Up Shenanigans: Dog Days and Developer Feels
+Accelerating JavaScript arrays by 10x for Vector Search
+burl: A simple but flexible HTTP/3 testing framework based on bash and curl
+Planning palooza
+Vocal Software Development
+How do we measure the Performance of a Microservice, Service, or Server?
+Socketioxide 0.10.0, New year, new features! Tales of the Rust Socket IO server
+Parallelizing HNSW (Hierarchical Navigable Small World) graphs
+Introduction to Plan 9
+zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks
+Email Validator with checking DNS MX records and strict real-life symbols rules (JS library, works in browser)
+A* tricks for videogame path finding
+No More Css Issue, A brute ,but easy solution for Css Position Issues.
+The Hottest Open Source Projects Of 2023
+Atari 2600 IDE in the Browser
+How to Find All The Tables Without Primary Key — Spring Boot
+Python Data Types - Tutorial for Beginners
+Beyond Coding: 4 Life Lessons I Learned After 4 Years of Working as a Software Engineer
+The really final (final!) word about agile
+Annotating and reflecting on my robotics code from 2009
+Ensure Users Log in from Trusted Networks with Auth0 Actions
+Pattern matching and exhaustiveness checking algorithms implemented in Rust
+JDK HTTP server handles 100,000 req/sec with 100 ms start-up time and 50 MB modular run-time image. Built with OpenJDK 21 and virtual threads.
+GRASSHOPPER, a low-level programming language for the 6502 (1981)
+Writing a TrueType font renderer
+git rebase: what can go wrong?
+Syntax Podcast: "Is Running Random Code From npm Safe?"
+vmcache: Virtual-Memory Assisted Buffer Management [pdf]
+Ring 1.19 is released!
+Arezzo: Automatic polyphonic piano music transcription in Python. (Dodgy school project) Feedback appreciated!
+Footsteps VSCode plugin - keep your place when jumping between a different parts of your code
+Queues: FIFOs, stacks, code diffs, and other bad words
+A Brief Retrospective on SPARC Register Windows
+What comes after open source? Bruce Perens is working on it
+Deploy your FastAPI app in serverless Google App Engine
+Neutralinojs 2024 Roadmap
+jank's new persistent string is fast
+Merkle Search Trees: Efficient State-Based CRDTs in Open Networks
+Why you should use pkg-config
+What's Your Go-To Java Framework
+Was Javascript really made in 10 days?
+A Closer Look to a Key-Value Storage Engine
+Decision Table Based Methodology for Software Development
+“You can’t do that because I hate you.”
+Vscode Keyboard shorcuts to code faster!
+Pickle Python Object Using the pickle Module
+CSS At-Rules That Every Web Developer Should Know
+S-Assembler v0.1: Self-hosting RiscV Assembler
+The IDEs we had 30 years ago... and we lost
+How I destroyed the company's DB (Stupid SQL mistake)
+Just discovered that the new Microsoft Copilot mobile apps were built using React Native!
+HIPAA-Compliant Software Development Checklist for 2024
+A* Tricks for Videogame Path Finding
+A Core Calculus for Documents [pdf]
+Subject-First Commit Messages
+Musings on the C Charter
+Odin Programming Language
+Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory
+Rewind your GitHub summary
+Big projects are ditching TypeScript… why?
+🤔️ Rethinking a Cloud-Native Application Development Paradigm
+I have created a Rust/C like programming language compiler using Rust
+Griffin 2.0: Instacart Revamps Its Machine Learning Platform
+Deploy App to Azure Kubernetes Services (AKS)
+zsh coproc Tutorial
+SINGLE BUTTON CALCULATOR (morse code python repl)
+VS Code extension demystification and DevDb v1 launch
+Writing a container in Rust
+Pokemon prototype game made with JavaScript + p5.js
+Last week in FOSS: Rust 1.75, Firefox 122, MX Linux on Raspberry Pi, and more
+{}
+Error handling in Go is awesome, here is why
+Interpreters Part I : Language &amp; Runtime comparison
+How to Get All Instance and Class Methods In Java
+Celebrating New Year with Databases
+Playing with JavaScript for Netscape Navigator 2.0 (where the language first appeared!)
+2023 coding stats of 500k+ developers
+O(1) space, O(N) time non-modifying median using c++ ranges
+The IDEs we had 30 years ago... and we lost
+Every LLM in Emacs, with gptel
+Iggy.rs - building message streaming in Rust
+emacs-copilot: Large language model code completion for Emacs
+Smarter way to work with databases when using VS Code
+C# gRPC Client/Server in .Net Core (Visual Studio)
+The worst time and space complexity you will ever see
+Why I'm skeptical of low-code
+DocFlow - Document Management API | Python | FastAPI | PostgreSQL | AWS S3
+SMTP Smuggling – Spoofing E-Mails Worldwide
+URL-Shorter with Python
+How To Cache Images From JSON API Call in SwiftUI
+EU Cyber Resilience Act: What does it mean for open source?
+Reflecting on the 25 Most Compiled Programming Languages of 2023
+The next step toward phasing out third-party cookies in Chrome
+Breaking DRM in Polish 45WE trains
+Bare Metal Bit Banging: Writing a Driver For Individually Addressable RGB LEDs
+How to Create a Quiz in SwiftUI
+The hidden gems of moreutils
+Method Chaining in Python: A Technique for Elegant Coding
+Shadow DOM and the problem of encapsulation
+Master Git Bisect for fast Debugging | Jacob Padilla
+Backpropagation from Scratch in Python
+First, solve the problem. Then, write the code.
+Mastering Pattern Printing: Unveiling 3-step process for Effortless Shape Solutions!
+It's time to put REST to rest
+Mastering Closures in Swift A Comprehensive Guide
+Run faster in the terminal with Gnu Parallel
+2024 Guide to Goals for Software Engineers
+Cloning Instagram into Flutter | New Year Stream 2024 | Live Coding
+Running Unified PubSub Client in Production at Pinterest
+Prompt Coding Challenge - Countdown to Midnight
+Making Sense of Lambda Calculus 1: Ignorant, Lazy, and Greedy Evaluation
+GitHub - Cyberguru1/PasteBin: Implementation of pastebin while studying system design principles and concepts
+Master Dependency Injection in SwiftUI Simplify Your Code Like a Pro
+Ideal monitor rotation for programmers
+How To Cache Images From JSON API Call in SwiftUI
+I used an AI to Fix A Major Bug in a Very Popular Open Source Technical Indicator Library
+Data Races vs Race Conditions in Go
+Why Your CSS Code Is a Slow, Broken, and Hard-to-Manage Mess
+Learning a new language by making projects
+Understanding Parquet, Iceberg and Data Lakehouses
+Web Performance Tips
+Navigating the Challenges of Software Design Patterns: Embracing Intention for Improved Maintainability and Reliability.
+Exploring Headless UI Components in React
+Database obfuscation framework
+Zendesk Moves from DynamoDB to MySQL and S3 to Save over 80% in Costs
+Why take an operating system course?
+It's a New Language but Instead of Words you Use Prompts
+The Lost Art of GPU Tech Demos
+RecoverPy 2.1.5: Terminal file search &amp; recovery tool
+Habits of great software engineers (TL;DR; in the post)
+It's not microservice or monolith; it's cognitive load you need to understand first
+what are some best resources to learn SFML?
+Why take a compiler course
+How to do a TypeScript Conversion
+The golden age of Kotlin and its uncertain future
+Why settle for 32 bits when you can precompute the oddness of every 64 bit integer?
+Minecraft Bugs and the Importance of Math with Engine Programmer Dan Samhold
+60% of large Git repos ban merge commits
+GitHub Copilot Chat now generally available for organizations and individuals
+A terminal-rendered cellular automaton project I've been working on recently
+Netty Source Code Analysis — Register Analysis
+Assessing GitHub Copilot: A Candid Overview
+Why asking your customers what they want doesn't work
+how the append-only btree works
+The Continuous Clean Code Process (CCCP)
+tm_gmtoff: A Typesystem Mystery
+How Neural Networks Function
+lz-string: JavaScript compression, fast!
+Twenty Years of SRE: Lessons Learned
+main-thread-scheduling
+Cold-blooded software
+Executing Cron Scripts Reliably at Scale
+GNU make and Makefile from Scratch
+Developers experience burnout, but 70% of them code on weekends
+How to rewrite classes using closures in JavaScript
+Judicious JSON
+Free Workshop - Amazon Bedrock + Winglang: Building a Serverless Workflow
+Why you should only use TypeScript ☝️
+Mewz: A unikernel designed specifically for running Wasm applications and compatible with WASI
+AsiaBSDCon 2016: Secure CGI Applications in C
+wbn-sign using Web Cryptography API
+GitQL v0.11.0 is released with Diagnostic engine and type system improvements
+HAR Files: A Developer's Insight
+Tracking developer build performance to decide if the M3 MacBook is worth upgrading
+Reverse engineering a train to analyze a suspicious malfunction
+4 billion if statements - Checking if every 32 bit numer is even or odd
+The Case of a Curious SQL Query
+Rust and poll_next
+🌦️ Cnn Tensorflow Image Classification | Weather Image Classification 🌦️
+I did Dynamic Array Data Structure in C which is like std::vectors in C++ and added 11 pages of documentation
+3D Map of Shinjuku Station in Three.js
+{}
+Garnet is an attempt at making a programming language that could be summed up as “What if Rust was simple?”
+Create MSI/Setup.exe from C# Desktop Project w/ Visual Studio
+BASIC was not just a programming language
+Two Tasks in One Bundle: Dissembling Test Driven Development
+The Right Way to Pipe
+Android Data Encryption in depth
+Why LinkedIn chose gRPC+Protobuf over REST+JSON: Q&amp;A with Karthik Ramgopal and Min Chen
+Code discussion in your IDE
+TIL: TeX (the typesetting software under LaTeX) is on version 3.141592653
+What comes after open source? Bruce Perens is working on it
+The Beauty of Finished Software
+Alternate Futures for “Web Components”
+Rise of Rust: Is It the Future of System-level Programming?
+OnLogs – open-source simplified web logs viewer for Dockers
+Unix as IDE
+{}

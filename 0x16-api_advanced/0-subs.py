@@ -1,9 +1,10 @@
 #!/usr/bin/python3
+"""return the number of subscibers in a subreddit"""
 import requests
-import sys
 
 
 def number_of_subscribers(subreddit):
+    """return the number of subscibers in a subreddit"""
     CLIENT_ID = "FFDu9MetkGi_k_ddGyZPDw"
     SECRET_KEY = "0PXLIPopm_b3K_hAugxar6emQLqU7A"
     auth = requests.auth.HTTPBasicAuth(CLIENT_ID, SECRET_KEY)

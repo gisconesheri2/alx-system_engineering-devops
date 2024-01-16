@@ -4,7 +4,7 @@ import requests
 
 
 def set_up():
-    """return list of all hot posts in a subreddit"""
+    """setup reddit api authentication"""
     CLIENT_ID = "FFDu9MetkGi_k_ddGyZPDw"
     SECRET_KEY = "0PXLIPopm_b3K_hAugxar6emQLqU7A"
     auth = requests.auth.HTTPBasicAuth(CLIENT_ID, SECRET_KEY)
@@ -24,8 +24,12 @@ def set_up():
     return headers
 
 
-def count_words(subreddit, word_list, words_count = {}, params = {'limit': 100}, count = 0):
+def count_words(subreddit, word_list, words_count={},
+                params={'limit': 100}, count=0):
 
+    """count and print occurence of words in
+    @word_list in titles of hot topics in a @subreddit
+    """
     headers = set_up()
 
     resp = requests.get(f'https://oauth.reddit.com/r/{subreddit}/hot',
@@ -41,7 +45,8 @@ def count_words(subreddit, word_list, words_count = {}, params = {'limit': 100},
         params['after'] = d['data']['after']
         params['count'] = count
         if params['after'] is None:
-            sort_wc = sorted(words_count.items(), key=lambda x:x[1], reverse=True)
+            sort_wc = sorted(words_count.items(),
+                             key=lambda x: x[1], reverse=True)
             for word_tuple in sort_wc:
                 if word_tuple[1] > 0:
                     print('{}: {}'.format(word_tuple[0], word_tuple[1]))

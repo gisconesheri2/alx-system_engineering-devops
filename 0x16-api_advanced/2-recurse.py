@@ -4,7 +4,7 @@ import requests
 
 
 def set_up():
-    """return list of all hot posts in a subreddit"""
+    """set up reddit authentication"""
     CLIENT_ID = "FFDu9MetkGi_k_ddGyZPDw"
     SECRET_KEY = "0PXLIPopm_b3K_hAugxar6emQLqU7A"
     auth = requests.auth.HTTPBasicAuth(CLIENT_ID, SECRET_KEY)
@@ -24,7 +24,8 @@ def set_up():
     return headers
 
 
-def recurse(subreddit, hot_list = [], params = {'limit': 100}, count = 0):
+def recurse(subreddit, hot_list=[], params={'limit': 100}, count=0):
+    """aggregate all hot titles in a subreddit"""
 
     headers = set_up()
 

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# gets the process id of gunicorn master and send a HUP signal
+# ps -C gunicorn only lists the processes with gunicorn command
+# i.e., workers and master process.
+# f flag assures that master is printed above workers
+# h flag is used to remove the first line which is PID text
+kill -HUP "$(ps -C gunicorn fch -o pid | head -n 1)"
